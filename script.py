@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# this script uses f-strings and should be run with python >= 3.6
 import re
 import requests
 
